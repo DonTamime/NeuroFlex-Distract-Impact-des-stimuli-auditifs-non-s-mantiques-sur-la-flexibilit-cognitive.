@@ -61,7 +61,8 @@ boxplot(temps.de.reponse..millisecondes. ~ commutation..1...essai.repete..2...es
         col = c("#ADD8E6", "#FFA07A"),
         names = c("Essai répété", "Essai de commutation"),
         main = "Coût de la commutation",
-        ylab = "Temps de réponse (ms)")
+        ylab = "Temps de réponse (ms)") 
+#FIN 
 
 
 
