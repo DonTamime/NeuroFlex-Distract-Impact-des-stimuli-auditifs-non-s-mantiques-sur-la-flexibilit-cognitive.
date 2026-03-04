@@ -1,0 +1,2 @@
+# NeuroFlex-Distract-Impact-des-stimuli-auditifs-non-s-mantiques-sur-la-flexibilit-cognitive.
+Étude expérimentale visant à quantifier l'interférence d'une distraction sonore sur les fonctions exécutives. Ce projet analyse le temps de réponse et le taux d'erreur via le paradigme de commutation de tâches (Task-Switching). L'analyse est réalisée sous R pour mesurer le coût cognitif de la distraction et l'adaptation du cortex préfrontal.
